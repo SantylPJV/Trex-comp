@@ -1,1 +1,1 @@
-# Trex-comp
+# Juegos-compatibles-con-dispositivos
